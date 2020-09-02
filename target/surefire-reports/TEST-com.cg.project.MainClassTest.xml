@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.cg.project.MainClassTest" time="0.111" tests="3" errors="0" skipped="0" failures="2">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.cg.project.MainClassTest" time="0.099" tests="3" errors="0" skipped="0" failures="2">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\OpenJDK12\bin"/>
-    <property name="sun.java.command" value="C:\Users\agawade\AppData\Local\Temp\surefire6832758228409393492\surefirebooter2203684842373490843.jar C:\Users\agawade\AppData\Local\Temp\surefire6832758228409393492 2020-09-02T11-51-17_847-jvmRun1 surefire1473275110957243518tmp surefire_017395783440376034029tmp"/>
+    <property name="sun.java.command" value="C:\Users\agawade\AppData\Local\Temp\surefire1811880543153116881\surefirebooter15122877853204985361.jar C:\Users\agawade\AppData\Local\Temp\surefire1811880543153116881 2020-09-02T12-22-06_514-jvmRun1 surefire8075555815094337770tmp surefire_012721158818686181433tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\agawade\workspace-spring-tool-suite-4-4.7.1.RELEASE\MavenApp\target\test-classes;C:\Users\agawade\workspace-spring-tool-suite-4-4.7.1.RELEASE\MavenApp\target\classes;C:\Users\agawade\.m2\repository\junit\junit\4.13\junit-4.13.jar;C:\Users\agawade\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -34,7 +34,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\agawade\AppData\Local\Temp\surefire6832758228409393492\surefirebooter2203684842373490843.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\agawade\AppData\Local\Temp\surefire1811880543153116881\surefirebooter15122877853204985361.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="12+33"/>
@@ -59,7 +59,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="56.0"/>
   </properties>
-  <testcase name="test1" classname="com.cg.project.MainClassTest" time="0.017">
+  <testcase name="test1" classname="com.cg.project.MainClassTest" time="0.016">
     <failure message="test1 has fail" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: test1 has fail
 	at com.cg.project.MainClassTest.test1(MainClassTest.java:13)
 ]]></failure>
